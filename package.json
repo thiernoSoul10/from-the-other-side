@@ -1,0 +1,21 @@
+{
+  "name": "from-the-other-side",
+  "version": "1.0.0",
+  "description": "A platform for sharing ghostly encounters",
+  "homepage": "https://github.com/thiernoSoul10/from-the-other-side#readme",
+  "bugs": {
+    "url": "https://github.com/thiernoSoul10/from-the-other-side/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiernoSoul10/from-the-other-side.git"
+  },
+  "license": "ISC",
+  "author": "Thierno BAH",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
