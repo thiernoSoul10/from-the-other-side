@@ -10,5 +10,4 @@ export async function parseJSONBody(req){
     } catch (error) {
         throw new Error(`Invalid JSON format: ${error}`)
     }
-    
 }

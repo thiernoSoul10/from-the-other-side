@@ -4,6 +4,7 @@ import path from "node:path";
 
 export async function addNewSighting(parsedBody){
     try {
+
         // 1. Getting the existing data
         const data = await getData()
         // 2. Pushing the new sighting to it
